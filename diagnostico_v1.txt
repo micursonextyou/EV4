@@ -1,0 +1,1 @@
+comportamientos extraños, que se presentan en el js, cuando se ingrsan valoras de mil, y el spam display no se puede modificar para mostrar el resultado de las operaciones 
